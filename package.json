@@ -1,0 +1,29 @@
+{
+  "name": "projetoavaliacaotopicos",
+  "version": "1.0.0",
+  "description": "Projeto da Prova de Tópicos Especiais de Sistemas.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tsx watch index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guirrermi/ProjetoAvaliacaoTopicos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guirrermi/ProjetoAvaliacaoTopicos/issues"
+  },
+  "homepage": "https://github.com/Guirrermi/ProjetoAvaliacaoTopicos#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
